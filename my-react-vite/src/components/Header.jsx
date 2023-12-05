@@ -172,9 +172,7 @@ function Header() {
                           <CiEdit  className='text-purple-600  hover:text-green-600'/>
                              </div>
                       </div>
-                                <div className='text-base ml-12 mt-8 mr-6 font-normal'>  Work with clients and web studios as freelancer.Work in nextareas eCommerce web 
-                                 projects creative landing pages; iOs and Android apps; corporate web sites and corporate identity 
-                                  sometimes.</div>
+                               
                       </div>
                 </div>
                 
